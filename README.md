@@ -8,4 +8,4 @@ It also allows a visualization of the most frequent words.
 - `matplotlib`
 - `nltk`
 
-This was developed from a practice lab owned by the **Python for Data Sciences, AI and Development** coursera course.
+This was developed from a practice lab owned by the **Python for Data Science, AI and Development** coursera course.
